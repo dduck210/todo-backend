@@ -262,44 +262,44 @@
     },
     {
       "id": "f02c",
-      "username": "admin1",
+      "username": "user1",
       "password": "1",
       "role": "user"
     },
     {
       "id": "6315",
-      "username": "admin2",
+      "username": "user2",
       "password": "1",
       "role": "user"
     },
     {
       "id": "2747",
-      "username": "admin3",
+      "username": "user3",
       "password": "1",
       "role": "user"
     },
     {
       "id": "07af",
-      "username": "admin5",
+      "username": "user4",
       "password": "1",
       "role": "user"
     },
     {
       "id": "a5a4",
-      "username": "admin10",
-      "password": "123456",
+      "username": "user5",
+      "password": "1",
       "role": "user"
     },
     {
       "id": "c2a5",
-      "username": "admin11",
-      "password": "123456789",
+      "username": "user6",
+      "password": "1",
       "role": "user"
     },
     {
       "id": "fe0c",
-      "username": "admin12",
-      "password": "123456789",
+      "username": "user7",
+      "password": "1",
       "role": "user"
     }
   ]
