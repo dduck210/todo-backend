@@ -251,6 +251,66 @@
       "todo": "Write a technical blog post to share microservice performance optimization solutions implemented by the team",
       "completed": true,
       "userId": "c2a5"
+    },
+    {
+      "id": "041",
+      "todo": "Prepare the monthly financial statements, including the balance sheet, profit and loss statement, and cash flow report in accordance with company policy",
+      "completed": null,
+      "userId": "f02c"
+    },
+    {
+      "id": "042",
+      "todo": "Reconcile all bank accounts for the current month and identify discrepancies for further investigation with the finance manager",
+      "completed": false,
+      "userId": "f02c"
+    },
+    {
+      "id": "043",
+      "todo": "Record and verify all accounts payable and accounts receivable transactions in the accounting software by the end of the working day",
+      "completed": true,
+      "userId": "f02c"
+    },
+    {
+      "id": "044",
+      "todo": "Compile and submit the monthly VAT (Value Added Tax) declaration documents to the local tax authority before the deadline",
+      "completed": null,
+      "userId": "f02c"
+    },
+    {
+      "id": "045",
+      "todo": "Review payroll records and ensure accurate calculation of employee wages and deductions for the upcoming payroll cycle",
+      "completed": false,
+      "userId": "f02c"
+    },
+    {
+      "id": "046",
+      "todo": "Prepare and optimize quarterly budget reports for departmental managers, including variance analysis against actual expenditures",
+      "completed": true,
+      "userId": "f02c"
+    },
+    {
+      "id": "047",
+      "todo": "Coordinate with external auditors to provide required documents and explanations for the annual audit process",
+      "completed": null,
+      "userId": "f02c"
+    },
+    {
+      "id": "048",
+      "todo": "Monitor and record all fixed asset purchases, disposals, and depreciation schedules throughout the fiscal year",
+      "completed": false,
+      "userId": "f02c"
+    },
+    {
+      "id": "049",
+      "todo": "Verify supporting documents and approval for all company expense reimbursements prior to processing payment",
+      "completed": null,
+      "userId": "f02c"
+    },
+    {
+      "id": "050",
+      "todo": "Develop and maintain a checklist to ensure full compliance with current accounting standards and internal control procedures",
+      "completed": true,
+      "userId": "f02c"
     }
   ],
   "users": [
