@@ -361,6 +361,12 @@
       "username": "user7",
       "password": "1",
       "role": "user"
+    },
+    {
+      "username": "dduck",
+      "password": "12345",
+      "role": "user",
+      "id": "xopk9Cl"
     }
   ]
 }
