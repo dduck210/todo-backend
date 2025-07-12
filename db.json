@@ -27,10 +27,8 @@
     {
       "id": "003",
       "todo": "Read, evaluate, and provide thorough feedback on all pending pull requests submitted by team members this week",
-      "id": "003",
-      "todo": "Read, evaluate, and provide thorough feedback on all pending pull requests submitted by team members this week",
       "completed": false,
-      "userId": "6315""userId": "6315"
+      "userId": "6315"
     },
     {
       "id": "004",
@@ -143,10 +141,8 @@
     {
       "id": "022",
       "todo": "Organize the source code folder structure according to the onboarding guidelines for easier team collaboration",
-      "id": "022",
-      "todo": "Organize the source code folder structure according to the onboarding guidelines for easier team collaboration",
       "completed": true,
-      "userId": "fe0c""userId": "fe0c"
+      "userId": "fe0c"
     },
     {
       "id": "023",
@@ -224,7 +220,7 @@
       "id": "035",
       "todo": "Enhance the user registration workflow to reduce drop-off rates and provide a seamless onboarding experience",
       "completed": false,
-      "userId": "a5a4""userId": "a5a4"
+      "userId": "a5a4"
     },
     {
       "id": "036",
@@ -266,7 +262,7 @@
       "id": "042",
       "todo": "Reconcile all bank accounts for the current month and identify discrepancies for further investigation with the finance manager",
       "completed": false,
-      "userId": "f02c""userId": "f02c"
+      "userId": "f02c"
     },
     {
       "id": "043",
@@ -278,7 +274,7 @@
       "id": "044",
       "todo": "Compile and submit the monthly VAT (Value Added Tax) declaration documents to the local tax authority before the deadline",
       "completed": null,
-      "userId": "f02c""userId": "f02c"
+      "userId": "f02c"
     },
     {
       "id": "045",
@@ -290,7 +286,7 @@
       "id": "046",
       "todo": "Prepare and optimize quarterly budget reports for departmental managers, including variance analysis against actual expenditures",
       "completed": true,
-      "userId": "f02c""userId": "f02c"
+      "userId": "f02c"
     },
     {
       "id": "047",
@@ -308,13 +304,13 @@
       "id": "049",
       "todo": "Verify supporting documents and approval for all company expense reimbursements prior to processing payment",
       "completed": null,
-      "userId": "f02c""userId": "f02c"
+      "userId": "f02c"
     },
     {
       "id": "050",
       "todo": "Develop and maintain a checklist to ensure full compliance with current accounting standards and internal control procedures",
       "completed": true,
-      "userId": "f02c""userId": "f02c"
+      "userId": "f02c"
     }
   ],
   "users": [
@@ -322,14 +318,11 @@
       "id": "1",
       "username": "admin",
       "password": "123456",
-      "role": "admin""password": "123456",
       "role": "admin"
     },
     {
       "id": "f02c",
       "username": "user1",
-      "password": "1",
-      "role": "user""username": "user1",
       "password": "1",
       "role": "user"
     },
@@ -337,15 +330,11 @@
       "id": "6315",
       "username": "user2",
       "password": "1",
-      "role": "user""username": "user2",
-      "password": "1",
       "role": "user"
     },
     {
       "id": "2747",
       "username": "user3",
-      "password": "1",
-      "role": "user""username": "user3",
       "password": "1",
       "role": "user"
     },
@@ -374,10 +363,10 @@
       "role": "user"
     },
     {
+      "id": "dduck1",
       "username": "dduck",
-      "password": "12345",
-      "role": "user",
-      "id": "xopk9Cl"
+      "password": "1",
+      "role": "user"
     }
   ]
 }
