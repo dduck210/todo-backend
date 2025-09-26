@@ -2,247 +2,247 @@
   "todos": [
     {
       "id": "T001",
-      "todo": "로그인 API의 JWT 토큰 만료 로직을 개선합니다.",
+      "todo": "Improve the JWT token expiration logic in the login API.",
       "completed": true,
       "userId": "u01"
     },
     {
       "id": "T002",
-      "todo": "프론트엔드에서 다국어 지원을 위한 i18n 세팅을 적용합니다.",
+      "todo": "Apply i18n setup to support multiple languages on the frontend.",
       "completed": false,
       "userId": "u02"
     },
     {
       "id": "T003",
-      "todo": "CI/CD 파이프라인에 정적 분석 툴 SonarQube를 통합합니다.",
+      "todo": "Integrate the static analysis tool SonarQube into the CI/CD pipeline.",
       "completed": null,
       "userId": "u03"
     },
     {
       "id": "T004",
-      "todo": "신규 고객을 위한 온보딩 이메일 캠페인 초안을 작성합니다.",
+      "todo": "Draft the onboarding email campaign for new customers.",
       "completed": true,
       "userId": "u04"
     },
     {
       "id": "T005",
-      "todo": "AWS RDS 백업 스케줄링을 자동화하여 장애 복구 시간을 단축합니다.",
+      "todo": "Automate AWS RDS backup scheduling to reduce recovery time during failures.",
       "completed": false,
       "userId": "u05"
     },
     {
       "id": "T006",
-      "todo": "코드 리뷰 가이드라인 문서를 작성하고 전사 공유합니다.",
+      "todo": "Write a code review guideline document and share it company-wide.",
       "completed": null,
       "userId": "u06"
     },
     {
       "id": "T007",
-      "todo": "인사팀 요청에 따라 신규 입사자 온보딩 체크리스트를 업데이트합니다.",
+      "todo": "Update the onboarding checklist for new hires as requested by HR.",
       "completed": true,
       "userId": "u07"
     },
     {
       "id": "T008",
-      "todo": "React Native 기반 모바일 앱의 다크모드 기능을 구현합니다.",
+      "todo": "Implement dark mode feature for the React Native mobile app.",
       "completed": false,
       "userId": "u08"
     },
     {
       "id": "T009",
-      "todo": "DB 쿼리 성능 테스트를 진행하여 병목 구간을 최적화합니다.",
+      "todo": "Run DB query performance tests and optimize bottlenecks.",
       "completed": null,
       "userId": "u09"
     },
     {
       "id": "T010",
-      "todo": "사내 네트워크 보안 규정을 준수하도록 방화벽 룰을 재정비합니다.",
+      "todo": "Revise firewall rules to comply with internal network security policies.",
       "completed": true,
       "userId": "u10"
     },
     {
       "id": "T011",
-      "todo": "주요 경쟁사 제품 비교 리포트를 작성합니다.",
+      "todo": "Write a comparison report on major competitors’ products.",
       "completed": false,
       "userId": "u11"
     },
     {
       "id": "T012",
-      "todo": "Kubernetes 클러스터 로깅 시스템을 Loki + Grafana로 교체합니다.",
+      "todo": "Replace Kubernetes cluster logging system with Loki + Grafana.",
       "completed": null,
       "userId": "u12"
     },
     {
       "id": "T013",
-      "todo": "웹사이트 접근성 표준 WCAG 2.1에 맞는 개선사항을 반영합니다.",
+      "todo": "Apply improvements to comply with WCAG 2.1 accessibility standards on the website.",
       "completed": true,
       "userId": "u13"
     },
     {
       "id": "T014",
-      "todo": "내부 회계 보고용 월별 지출 내역을 정리합니다.",
+      "todo": "Organize monthly expense records for internal accounting reports.",
       "completed": true,
       "userId": "u14"
     },
     {
       "id": "T015",
-      "todo": "보안팀과 협력하여 정기 침투 테스트 계획을 수립합니다.",
+      "todo": "Collaborate with the security team to establish a regular penetration testing plan.",
       "completed": false,
       "userId": "u15"
     },
     {
       "id": "T016",
-      "todo": "GraphQL API 스키마 변경 사항을 문서화합니다.",
+      "todo": "Document changes to the GraphQL API schema.",
       "completed": true,
       "userId": "u01"
     },
     {
       "id": "T017",
-      "todo": "신규 고객 데이터 분석 보고서를 작성합니다.",
+      "todo": "Write a report analyzing new customer data.",
       "completed": false,
       "userId": "u02"
     },
     {
       "id": "T018",
-      "todo": "UI 라이브러리 컴포넌트 테스트 케이스를 작성합니다.",
+      "todo": "Write test cases for UI library components.",
       "completed": null,
       "userId": "u03"
     },
     {
       "id": "T019",
-      "todo": "회사 블로그에 기술 포스트를 작성하고 발행합니다.",
+      "todo": "Write and publish a technical post on the company blog.",
       "completed": true,
       "userId": "u04"
     },
     {
       "id": "T020",
-      "todo": "사내 교육을 위한 클라우드 보안 강의 자료를 제작합니다.",
+      "todo": "Prepare cloud security training materials for internal education.",
       "completed": false,
       "userId": "u05"
     },
     {
       "id": "T021",
-      "todo": "마케팅팀 요청에 따라 신규 랜딩페이지를 디자인합니다.",
+      "todo": "Design a new landing page as requested by the marketing team.",
       "completed": true,
       "userId": "u06"
     },
     {
       "id": "T022",
-      "todo": "Redis 캐시 적중률을 분석하고 개선 방안을 적용합니다.",
+      "todo": "Analyze Redis cache hit ratio and apply improvements.",
       "completed": null,
       "userId": "u07"
     },
     {
       "id": "T023",
-      "todo": "OAuth2 기반 소셜 로그인 기능을 추가합니다.",
+      "todo": "Add social login functionality based on OAuth2.",
       "completed": false,
       "userId": "u08"
     },
     {
       "id": "T024",
-      "todo": "API 응답 속도를 측정하고 SLA 목표치를 달성합니다.",
+      "todo": "Measure API response times and meet SLA targets.",
       "completed": true,
       "userId": "u09"
     },
     {
       "id": "T025",
-      "todo": "다음 분기 로드맵을 작성하고 팀과 공유합니다.",
+      "todo": "Write the roadmap for the next quarter and share it with the team.",
       "completed": null,
       "userId": "u10"
     },
     {
       "id": "T026",
-      "todo": "CI 환경에서 테스트 커버리지 리포트를 자동화합니다.",
+      "todo": "Automate test coverage reporting in the CI environment.",
       "completed": false,
       "userId": "u11"
     },
     {
       "id": "T027",
-      "todo": "Docker 이미지 빌드 최적화를 통해 빌드 시간을 단축합니다.",
+      "todo": "Optimize Docker image builds to reduce build time.",
       "completed": true,
       "userId": "u12"
     },
     {
       "id": "T028",
-      "todo": "고객 지원팀을 위한 FAQ 페이지를 업데이트합니다.",
+      "todo": "Update the FAQ page for the customer support team.",
       "completed": null,
       "userId": "u13"
     },
     {
       "id": "T029",
-      "todo": "모바일 앱 푸시 알림 기능을 개선합니다.",
+      "todo": "Improve push notification functionality in the mobile app.",
       "completed": false,
       "userId": "u14"
     },
     {
       "id": "T030",
-      "todo": "회계팀과 협력해 분기별 재무 보고서를 준비합니다.",
+      "todo": "Work with the accounting team to prepare quarterly financial reports.",
       "completed": true,
       "userId": "u15"
     },
     {
       "id": "T031",
-      "todo": "프로덕션 장애 대응 매뉴얼을 업데이트합니다.",
+      "todo": "Update the production incident response manual.",
       "completed": false,
       "userId": "u01"
     },
     {
       "id": "T032",
-      "todo": "HR 부서 요청에 따른 직원 만족도 설문을 배포합니다.",
+      "todo": "Distribute employee satisfaction survey as requested by HR.",
       "completed": null,
       "userId": "u02"
     },
     {
       "id": "T033",
-      "todo": "ElasticSearch 인덱스를 재설계하여 검색 속도를 높입니다.",
+      "todo": "Redesign ElasticSearch indexes to improve search speed.",
       "completed": true,
       "userId": "u03"
     },
     {
       "id": "T034",
-      "todo": "UI/UX팀과 협업하여 새로운 대시보드 프로토타입을 만듭니다.",
+      "todo": "Collaborate with the UI/UX team to create a new dashboard prototype.",
       "completed": false,
       "userId": "u04"
     },
     {
       "id": "T035",
-      "todo": "S3에 저장된 데이터의 라이프사이클 정책을 최적화합니다.",
+      "todo": "Optimize S3 data lifecycle policies.",
       "completed": true,
       "userId": "u05"
     },
     {
       "id": "T036",
-      "todo": "신규 기능 QA 테스트 케이스를 작성합니다.",
+      "todo": "Write QA test cases for new features.",
       "completed": null,
       "userId": "u06"
     },
     {
       "id": "T037",
-      "todo": "서버 모니터링 알림 채널을 Slack으로 연동합니다.",
+      "todo": "Integrate server monitoring alerts with Slack.",
       "completed": true,
       "userId": "u07"
     },
     {
       "id": "T038",
-      "todo": "법무팀과 함께 개인정보 처리 방침을 업데이트합니다.",
+      "todo": "Update the privacy policy in collaboration with the legal team.",
       "completed": false,
       "userId": "u08"
     },
     {
       "id": "T039",
-      "todo": "서비스 장애 복구 훈련을 진행하고 결과를 보고합니다.",
+      "todo": "Conduct disaster recovery drills and report results.",
       "completed": null,
       "userId": "u09"
     },
     {
       "id": "T040",
-      "todo": "데이터 팀 요청에 따라 신규 데이터 파이프라인을 구축합니다.",
+      "todo": "Build a new data pipeline as requested by the data team.",
       "completed": true,
       "userId": "u10"
     },
     {
       "id": "T100",
-      "todo": "연말 결산을 위한 전사 시스템 로그 및 재무 데이터를 최종 검증합니다.",
+      "todo": "Finalize verification of system logs and financial data for year-end closing.",
       "completed": false,
       "userId": "u15"
     }
@@ -256,85 +256,85 @@
     },
     {
       "id": "u02",
-      "username": "alice",
+      "username": "An",
       "password": "1",
       "role": "user"
     },
     {
       "id": "u03",
-      "username": "bob",
+      "username": "Bao",
       "password": "1",
       "role": "user"
     },
     {
       "id": "u04",
-      "username": "carol",
+      "username": "Cuong",
       "password": "1",
       "role": "manager"
     },
     {
       "id": "u05",
-      "username": "david",
+      "username": "Duy",
       "password": "1",
       "role": "user"
     },
     {
       "id": "u06",
-      "username": "eva",
+      "username": "Hoa",
       "password": "1",
       "role": "viewer"
     },
     {
       "id": "u07",
-      "username": "frank",
+      "username": "Phong",
       "password": "1",
       "role": "user"
     },
     {
       "id": "u08",
-      "username": "grace",
+      "username": "Giang",
       "password": "1",
       "role": "user"
     },
     {
       "id": "u09",
-      "username": "henry",
+      "username": "Hien",
       "password": "1",
       "role": "user"
     },
     {
       "id": "u10",
-      "username": "irene",
+      "username": "Lan",
       "password": "1",
       "role": "manager"
     },
     {
       "id": "u11",
-      "username": "jack",
+      "username": "Quang",
       "password": "1",
       "role": "user"
     },
     {
       "id": "u12",
-      "username": "karen",
+      "username": "Khanh",
       "password": "1",
       "role": "user"
     },
     {
       "id": "u13",
-      "username": "leo",
+      "username": "Long",
       "password": "1",
       "role": "viewer"
     },
     {
       "id": "u14",
-      "username": "mia",
+      "username": "Minh",
       "password": "1",
       "role": "user"
     },
     {
       "id": "u15",
-      "username": "nick",
+      "username": "Nam",
       "password": "1",
       "role": "user"
     }
