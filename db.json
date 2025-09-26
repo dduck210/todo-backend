@@ -257,85 +257,85 @@
     {
       "id": "u02",
       "username": "An",
-      "password": "1",
+      "password": "123456",
       "role": "user"
     },
     {
       "id": "u03",
       "username": "Bao",
-      "password": "1",
+      "password": "123456",
       "role": "user"
     },
     {
       "id": "u04",
       "username": "Cuong",
-      "password": "1",
+      "password": "123456",
       "role": "manager"
     },
     {
       "id": "u05",
       "username": "Duy",
-      "password": "1",
+      "password": "123456",
       "role": "user"
     },
     {
       "id": "u06",
       "username": "Hoa",
-      "password": "1",
+      "password": "123456",
       "role": "viewer"
     },
     {
       "id": "u07",
       "username": "Phong",
-      "password": "1",
+      "password": "123456",
       "role": "user"
     },
     {
       "id": "u08",
       "username": "Giang",
-      "password": "1",
+      "password": "123456",
       "role": "user"
     },
     {
       "id": "u09",
       "username": "Hien",
-      "password": "1",
+      "password": "123456",
       "role": "user"
     },
     {
       "id": "u10",
       "username": "Lan",
-      "password": "1",
+      "password": "123456",
       "role": "manager"
     },
     {
       "id": "u11",
       "username": "Quang",
-      "password": "1",
+      "password": "123456",
       "role": "user"
     },
     {
       "id": "u12",
       "username": "Khanh",
-      "password": "1",
+      "password": "123456",
       "role": "user"
     },
     {
       "id": "u13",
       "username": "Long",
-      "password": "1",
+      "password": "123456",
       "role": "viewer"
     },
     {
       "id": "u14",
       "username": "Minh",
-      "password": "1",
+      "password": "123456",
       "role": "user"
     },
     {
       "id": "u15",
       "username": "Nam",
-      "password": "1",
+      "password": "123456",
       "role": "user"
     }
   ]
