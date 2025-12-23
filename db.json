@@ -1,0 +1,92 @@
+{
+  "users": [
+    { "id": "u01", "username": "admin", "password": "123456", "role": "admin", "fullName": "Quản trị viên" },
+    { "id": "u02", "username": "An", "password": "123456", "role": "user", "fullName": "Nguyễn Văn An" },
+    { "id": "u03", "username": "Bao", "password": "123456", "role": "user", "fullName": "Trần Bảo" },
+    { "id": "u04", "username": "Cuong", "password": "123456", "role": "manager", "fullName": "Lê Cường" },
+    { "id": "u05", "username": "Duy", "password": "123456", "role": "user", "fullName": "Phạm Duy" },
+    { "id": "u06", "username": "Hoa", "password": "123456", "role": "viewer", "fullName": "Nguyễn Thị Hoa" },
+    { "id": "u07", "username": "Phong", "password": "123456", "role": "user", "fullName": "Lý Phong" },
+    { "id": "u08", "username": "Giang", "password": "123456", "role": "user", "fullName": "Hà Giang" },
+    { "id": "u09", "username": "Hien", "password": "123456", "role": "user", "fullName": "Đỗ Hiền" },
+    { "id": "u10", "username": "Lan", "password": "123456", "role": "manager", "fullName": "Mai Lan" },
+    { "id": "u11", "username": "Quang", "password": "123456", "role": "user", "fullName": "Vũ Quang" },
+    { "id": "u12", "username": "Khanh", "password": "123456", "role": "user", "fullName": "Trần Khanh" },
+    { "id": "u13", "username": "Long", "password": "123456", "role": "viewer", "fullName": "Hoàng Long" },
+    { "id": "u14", "username": "Minh", "password": "123456", "role": "user", "fullName": "Lê Minh" },
+    { "id": "u15", "username": "Nam", "password": "123456", "role": "user", "fullName": "Ngô Nam" }
+  ],
+  "products": [
+    {
+      "id": "p001",
+      "name": "iPhone 15 Pro Max",
+      "price": 1200,
+      "image": "https://images.unsplash.com/photo-1696446701796-da61225697cc?w=500&q=80",
+      "category": "Phone",
+      "stock": 50
+    },
+    {
+      "id": "p002",
+      "name": "MacBook Air M2",
+      "price": 999,
+      "image": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?w=500&q=80",
+      "category": "Laptop",
+      "stock": 20
+    },
+    {
+      "id": "p003",
+      "name": "Sony WH-1000XM5",
+      "price": 350,
+      "image": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?w=500&q=80",
+      "category": "Audio",
+      "stock": 15
+    },
+    {
+      "id": "p004",
+      "name": "Apple Watch Series 9",
+      "price": 399,
+      "image": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?w=500&q=80",
+      "category": "Watch",
+      "stock": 100
+    },
+    {
+      "id": "p005",
+      "name": "Samsung Galaxy S24 Ultra",
+      "price": 1150,
+      "image": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=500&q=80",
+      "category": "Phone",
+      "stock": 40
+    },
+    {
+      "id": "p006",
+      "name": "Bàn phím cơ Keychron",
+      "price": 95,
+      "image": "https://images.unsplash.com/photo-1587829741301-dc798b91a603?w=500&q=80",
+      "category": "Accessories",
+      "stock": 30
+    }
+  ],
+  "orders": [
+    {
+      "id": "ord001",
+      "userId": "u02",
+      "date": "2024-05-20",
+      "total": 1350,
+      "status": "completed",
+      "items": [
+        { "productId": "p001", "quantity": 1 },
+        { "productId": "p006", "quantity": 2 }
+      ]
+    },
+    {
+      "id": "ord002",
+      "userId": "u05",
+      "date": "2024-05-21",
+      "total": 350,
+      "status": "pending",
+      "items": [
+        { "productId": "p003", "quantity": 1 }
+      ]
+    }
+  ]
+}
